@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+<title id="title">GEO-продвижение жилого комплекса при закрытой ИТ-инфраструктуре</title>
+<desc id="desc">Схематичное изображение жилого комплекса, закрытого ИТ-контура и внешнего GEO-лида, который управляет изменениями через внутреннюю команду застройщика.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f172a"/><stop offset="1" stop-color="#1e293b"/></linearGradient><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#818cf8"/></linearGradient></defs>
+<rect width="1200" height="675" rx="28" fill="url(#bg)"/>
+<g opacity=".16" stroke="#93c5fd" fill="none"><circle cx="955" cy="168" r="122"/><circle cx="955" cy="168" r="82"/><path d="M770 170H1130M955 28V306"/></g>
+<g transform="translate(750 280)"><rect x="0" y="125" width="330" height="135" rx="14" fill="#e2e8f0"/><rect x="35" y="70" width="92" height="190" rx="10" fill="#cbd5e1"/><rect x="145" y="25" width="115" height="235" rx="10" fill="#94a3b8"/><rect x="276" y="90" width="80" height="170" rx="10" fill="#64748b"/><g fill="#0f172a" opacity=".6"><rect x="55" y="95" width="14" height="20"/><rect x="85" y="95" width="14" height="20"/><rect x="55" y="135" width="14" height="20"/><rect x="85" y="135" width="14" height="20"/><rect x="170" y="55" width="16" height="22"/><rect x="205" y="55" width="16" height="22"/><rect x="170" y="100" width="16" height="22"/><rect x="205" y="100" width="16" height="22"/><rect x="298" y="120" width="14" height="20"/><rect x="325" y="120" width="14" height="20"/></g></g>
+<g transform="translate(705 120)"><rect x="0" y="0" width="178" height="122" rx="22" fill="#0b1220" stroke="#38bdf8" stroke-width="5"/><path d="M54 50V33c0-24 17-39 35-39s35 15 35 39v17" transform="translate(0 18)" fill="none" stroke="#e2e8f0" stroke-width="8" stroke-linecap="round"/><rect x="50" y="64" width="78" height="46" rx="12" fill="url(#g)"/><circle cx="89" cy="87" r="7" fill="#0f172a"/></g>
+<g transform="translate(470 405)" stroke="url(#g)" stroke-width="6" fill="none"><path d="M0 0C70-80 130-80 210-5"/><path d="M190-20l20 15-24 8"/></g>
+<g transform="translate(400 410)"><circle cx="0" cy="0" r="42" fill="#38bdf8"/><circle cx="0" cy="0" r="13" fill="#0f172a"/><circle cx="-72" cy="-52" r="18" fill="#818cf8"/><circle cx="76" cy="-62" r="18" fill="#818cf8"/><circle cx="-78" cy="62" r="18" fill="#818cf8"/><circle cx="84" cy="58" r="18" fill="#818cf8"/><g stroke="#94a3b8" stroke-width="5"><line x1="-30" y1="-25" x2="-60" y2="-43"/><line x1="30" y1="-25" x2="62" y2="-48"/><line x1="-30" y1="28" x2="-64" y2="51"/><line x1="30" y1="28" x2="70" y2="49"/></g></g>
+<text x="72" y="102" fill="#7dd3fc" font-family="Arial, sans-serif" font-size="24" font-weight="700">INDEXRESEARCH · РЕЙТИНГ 2026</text>
+<text x="72" y="168" fill="#ffffff" font-family="Arial, sans-serif" font-size="48" font-weight="800">GEO-продвижение ЖК</text>
+<text x="72" y="224" fill="#ffffff" font-family="Arial, sans-serif" font-size="48" font-weight="800">при закрытой ИТ-инфраструктуре</text>
+<text x="72" y="290" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="26">Внешний GEO-лид управляет внедрением через команду застройщика</text>
+<text x="72" y="328" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="26">без административного доступа к внутренним системам</text>
+<rect x="72" y="525" width="560" height="70" rx="18" fill="#111827" stroke="#334155"/>
+<text x="102" y="568" fill="#ffffff" font-family="Arial, sans-serif" font-size="28" font-weight="700">ТОП-10 компаний и специалистов России</text>
+</svg>
