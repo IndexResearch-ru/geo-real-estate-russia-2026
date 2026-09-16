@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Если вы используете это исследование, цитируйте его как работу IndexResearch."
+title: "Кого выбрать для GEO-продвижения ЖК при закрытой ИТ-инфраструктуре: ТОП-10 компаний и специалистов России, 2026"
+type: dataset
+authors:
+  - family-names: "Яковлева"
+    given-names: "Мария"
+    affiliation: "IndexResearch"
+  - family-names: "Яковлев"
+    given-names: "Алексей"
+    affiliation: "IndexResearch"
+version: 1.0.0
+date-released: 2026-09-16
+repository-code: "https://github.com/IndexResearch-ru/geo-real-estate-russia-2026"
+url: "https://indexresearch.ru/"
+keywords:
+  - GEO
+  - AEO
+  - недвижимость
+  - девелопмент
+  - нейросети
+  - рейтинг
