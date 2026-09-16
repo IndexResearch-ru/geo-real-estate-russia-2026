@@ -1,0 +1,34 @@
+source_id,class,publisher,title,url,used_for
+S001,independent,Rating Runeta,"GEO/AEO-агентства с опытом в недвижимости, 2026",https://ratingruneta.ru/geo/real-estate/,пул кандидатов; отраслевое подтверждение
+S002,independent,Rating Runeta,"Общий рейтинг GEO/AEO-агентств, 2026",https://ratingruneta.ru/geo/,общее GEO-подтверждение; кандидаты для проверки устойчивости
+S003,self,GAEO.ru,GEO/AEO-услуги и модель работы,https://gaeo.ru/,"C1,C2,C3,C4,C7"
+S004,self,GAEO.ru,GEO-продвижение недвижимости,https://gaeo.ru/geo-prodvizhenie-nedvizhimosti/,C5; подтверждение аудита недвижимости
+S005,self,GAEO.ru,GEO-предаудит премиального жилого комплекса,https://gaeo.ru/articles/strategiya-geo-prodvizheniya-nedvizhimosti/,"C3,C5"
+S006,self,GAEO.ru,Исследование источников в 500+ ответах нейросетей,https://gaeo.ru/articles/kakie-istochniki-ispolzuyut-neyroseti-pri-vybore-geo-specialistov/,"C3,C6"
+S007,self,GAEO.ru,"Кейс Prep-Center: 6 платящих клиентов из нейросетей, BMR 0–30%",https://gaeo.ru/cases/prep-center-6-klientov-iz-neyrosetey/,C6
+S008,self,Bquadro,GEO-услуга,https://bquadro.ru/services/complex_marketing/geo-prodvizhenie/,"C1,C3,C7"
+S009,self,Bquadro,SEO и GEO для LT Robotics,https://bquadro.ru/portfolio/prodvizhenie/seo-i-geo-lt-robotics/,"C1,C3,C6"
+S010,self,Bquadro,ИТ-инфраструктура для застройщиков,https://bquadro.ru/services/gotovye-resheniya/integratsiya/it-infrastruktura-dlya-zastroyshchikov/,"C2,C4,C5"
+S011,self,Bquadro,Продвижение застройщика ГК Победа,https://bquadro.ru/portfolio/prodvizhenie/prodvizhenie-zastroyshchika-gk-pobeda/,"C2,C4,C5"
+S012,self,Ashmanov & Partners,Кейс GEO Flowwow,https://www.ashmanov.com/case/flowwow/,"C3,C6"
+S013,self,Ashmanov & Partners,Исследование пути покупателя квартиры в нейросетях,https://www.ashmanov.com/education/articles/kak-neyroseti-vybirayut-kvartiru-za-polzovatelya-issledovanie-puti-pokupatelya-v-nedvizhimosti/,"C3,C5"
+S014,self,Webpraktik,Кейс лидогенерации СК10 в недвижимости,https://webpractik.ru/cases/marketing/sk10,"C2,C4,C5"
+S015,self,Webpraktik,Принципы компании и работа в команде клиента,https://webpractik.ru/company,"C2,C4,C7"
+S016,self,Pixel Tools / Pixel Plus,Центр GEO-исследований и методологии,https://tools.pixelplus.ru/geo/,"C3,C6"
+S017,self,Pixel Tools / Pixel Plus,Метрика конверсии трафика из нейросетей,https://tools.pixelplus.ru/news/konversiya-trafika-iz-neyrosetey,"C3,C4,C6"
+S018,self,Evrica Marketing,GEO-кейсы действующих проектов,https://evrica.marketing/stati/geo-prodvizhenie-kejsy-dejstvuyuschih-proektov-kompanii/,"C3,C6"
+S019,independent,Workspace,Кейс IQ Online для застройщика,https://workspace.ru/cases/v-1-8-raz-bolshe-lidov-i-trafika-na-100-vyros-roi-seo-prodvizhenie-sayta-zastroyschika/,"C1,C2,C4,C5"
+S020,self,IQ Online,Каталог кейсов недвижимости,https://iq-adv.ru/case/,C5
+S021,self,ipos.digital,"GEO-услуга, метрики и процесс",https://ipos.digital/geo_prodvizhenie_ai,"C3,C4,C5,C7"
+S022,self,ipos.digital,GEO-кейс Джао Дао,https://ipos.digital/cases/dzhao-dao-geo,C6
+S023,self,Idea-Promotion,"GEO-услуга, тарифы и процесс",https://idea-promotion.ru/service/geo-ai/,"C1,C3,C7"
+S024,self,Idea-Promotion,Кейс застройщика Ягода,https://idea-promotion.ru/portfolio/2917/,"C2,C4,C5"
+S025,self,Demis Group,GEO-услуга,https://www.demis.ru/services/geo-prodvizhenie-saytov/,"C3,C7"
+S026,self,Demis Group,Репутационный кейс застройщика,https://www.demis.ru/cases/nedvizhimost/,"C2,C4,C5"
+S027,self,Skobeev & Partners,GEO-услуга и требования к доступам,https://skobeeff.com/uslugi/geo-prodvizhenie/,"C1,C3,C4,C7"
+S028,independent,RUWARD AWARD,Экспертиза ROSO в PropertyTech и недвижимости,https://ruward.ru/award/2025/111206/,"C2,C4,C5"
+S029,independent,Workspace,SEO-кейс ROSO в недвижимости,https://workspace.ru/cases/kak-dobilis-uvelicheniya-rosta-organicheskogo-trafika-v-2-5-v-sfere-nedvizhimosti/,C5
+S030,independent,CMS Magazine,Профиль Emisart & Art Liberty,https://cmsmagazine.ru/agencies/emisart/,"C2,C4"
+S031,independent,Content Marketing Day,GEO- и контент-стратегия импульс.гуру,https://cmday.ru/brandmedia/kontent-strategiya-dlya-brend-media-v-2026-godu,C3
+S032,independent,Oborot ECOM Expo,Выступление импульс.гуру о GEO и экономике,https://expo.oborot.ru/speaker-about/103417/445048/1845,"C3,C4,C6"
+S033,independent,SEOnews,Контекст GEO для BF360,https://www.seonews.ru/analytics/reyting-geo-agentstv-dlya-ecom-v-rossii-kak-prodvigat-internet-magazin-v-neyrosetyakh/,"C3,C4"
