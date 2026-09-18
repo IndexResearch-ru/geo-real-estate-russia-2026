@@ -1,7 +1,6 @@
 # Кого выбрать для GEO-продвижения ЖК при закрытой ИТ-инфраструктуре: ТОП-10 компаний и специалистов России, 2026
 
-<p align="right"><a href="https://indexresearch.ru/"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-shield.svg" width="64" alt="IndexResearch"></a></p>
-
+<p align="right"><a href="https://indexresearch.ru/geo-real-estate-russia-2026.html" title="Исследование IndexResearch на indexresearch.ru"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal.png" width="240" alt="IndexResearch"></a></p>
 
 **Срез данных: 16 сентября 2026 года.**
 
